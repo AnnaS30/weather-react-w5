@@ -8,10 +8,11 @@
 }
 
 .Weather h1 {
-  font-size: 26px;
-  font-weight: 400;
+  font-size: 28px;
+  font-weight: 600;
   margin: 25px 0 0;
   line-height: 29px;
+  color: #212121;
 }
 
 .Weather ul {
@@ -21,18 +22,20 @@
 .Weather li {
   list-style: none;
   font-size: 16px;
-  font-weight: 300;
+  font-weight: 100;
   line-height: 20px;
   color: #7d7f81;
 }
 .Weather #temperature {
-  font-size: 54px;
+  font-size: 56px;
   color: #212121;
-  line-height: 56px;
+  line-height: 45px;
   font-weight: 400;
 }
-.Weather img {
+.Weather canvas {
   float: left;
+  margin-right: 7px;
+  margin-top: 3px;
 }
 .Weather #unit {
   font-size: 16px;
