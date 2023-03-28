@@ -37,7 +37,7 @@
   margin-right: 7px;
   margin-top: 3px;
 }
-.Weather #unit {
+.Weather .unit {
   font-size: 16px;
   position: relative;
   top: -25px;
