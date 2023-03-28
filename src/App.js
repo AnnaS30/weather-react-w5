@@ -10,8 +10,9 @@ function App() {
 
         <footer>
           This project was coded by AnnaS and is open-sourced on{" "}
-          <a href="https://www.ukr.net/ua/">GitHub</a> and hosted on{" "}
-          <a href="https://www.ukr.net/ua/">Netlify</a>
+          <a href="https://github.com/AnnaS30/weather-react-w5">GitHub</a> and
+          hosted on{" "}
+          <a href="https://tranquil-treacle-e207d5.netlify.app">Netlify</a>
         </footer>
       </div>
     </div>
